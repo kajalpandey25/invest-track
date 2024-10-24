@@ -6,32 +6,45 @@
     background: #cdfab8;
     color: #000;
 }
-  
 .navbar-logo h2 {
   font-size: 1.5rem;
 }
-
 .link ul {
   display: flex;
   gap: 1rem;
 }
-
 .link ul li{
   color: #000;
   font-size: 18px;
   font-weight: 600;
 }
 .link ul li:hover{
-    color: #4cbb17;
-    cursor: pointer;
+  color: #4cbb17;
+  cursor: pointer;
 }
-
-.nav_btn button{
-    margin-top: 20px;
-    padding: 1rem 3rem;
+.nav_btn {
+  display: flex;
+  gap: 2rem; 
+}
+.contact_btn button{
+    margin-top: 18px;
+    padding: 1rem 2rem;
     border: none;
     background: #4cbb17;
     color: #fff;
     font-weight: 600;
     border-radius: 30px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
 }
+.login_btn button{
+  margin-top: 18px;
+  padding: 1rem 2.9rem;
+  border: none;
+  background: #4cbb17;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 30px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+

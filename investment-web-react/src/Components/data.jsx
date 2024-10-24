@@ -64,20 +64,20 @@ export const resource = [
   }
 ]
 
-export const blog = [
-  {
-    image: coin,
-    title: "5 Investment Strategies for 2024",
-    text: "Explore the top strategies that can help you stay ahead in the coming year"
-  },
-  {
-    image: write,
-    title: "Understanding the Power of Compound Interest",
-    text: "Learn how compounding can significantly impact your long-term wealth"
-  },
-  {
-    image: write2,
-    title: "The Benefits of Diversification in Your Portfolio",
-    text: "Discover why a diversified portfolio is essential for managing risk"
-  }
-]
+// export const blog = [
+//   {
+//     image: coin,
+//     title: "5 Investment Strategies for 2024",
+//     text: "Explore the top strategies that can help you stay ahead in the coming year"
+//   },
+//   {
+//     image: write,
+//     title: "Understanding the Power of Compound Interest",
+//     text: "Learn how compounding can significantly impact your long-term wealth"
+//   },
+//   {
+//     image: write2,
+//     title: "The Benefits of Diversification in Your Portfolio",
+//     text: "Discover why a diversified portfolio is essential for managing risk"
+//   }
+// ]
